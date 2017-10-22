@@ -1,0 +1,72 @@
+
+
+body {
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav, ul {
+  float: right;
+}
+
+li {
+  float: right;
+}
+
+a {
+  display: block;
+  padding: 12px;
+  color: #666666;
+  text-decoration: none;
+}
+
+#search {
+  width: 575px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-style: solid;
+  border-color: #e8e8e8;
+  box-shadow: 1px 1px #e8e8e6;
+  background-image: url(#);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.button {
+  background-color: #f2f2f2;
+  color: #777777;
+  margin: 14px 2px;
+  border: none;
+  padding: 9px 15px;
+  font-weight: bold;
+
+}
+
+.center {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.me {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.Olaudah {
+  height: 200px;
+  width: 546px;
+}
